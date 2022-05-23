@@ -47,4 +47,27 @@ img{
      
     
 }
- 
+.Fourth{     position: relative;
+    margin-top: 0px;
+    bottom: 20px;
+    padding: 3% 15%;
+}
+ .fifth{
+     text-align:center;
+     padding: 3% 15% 0% 15%;
+ }
+.border{
+    position: relative;
+    border:1px;
+}
+.sixth{
+    
+    padding: 1% 15% 3% 15% ;
+    margin-top: 0px;
+}
+.col-md-6{
+    margin-bottom: 10px;
+}
+.pricing{
+     padding-right:10%;
+}
