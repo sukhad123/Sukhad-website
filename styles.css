@@ -23,13 +23,16 @@
 }
  .second{
      position:relative;
-     padding: 3% 15%;}
-
+     padding: 7% 15%;}
+.nav-item:hover{
+    background-color:pink;
+}
 .nav-item{
      padding:0 18px;
 }
 img{
-    width: 50%;
+    width: 60%;
+    margin-left: 50px;
     transform: rotate(25deg);
 }
 .coor{
@@ -70,4 +73,23 @@ img{
 }
 .pricing{
      padding-right:10%;
+}
+ .body{
+     width:100%;
+ }
+header{
+    position:relative;
+
+}
+.z-index{
+    
+     position:  relative;
+     z-index:1;
+     background-color: aliceblue;
+     bottom:100px;
+
+}
+.spacing{
+    position:relative;
+    bottom:100px;
 }
