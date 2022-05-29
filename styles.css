@@ -113,6 +113,11 @@ header{
 .logo{
     margin:1%;
 }
-.eight{
+.{
     padding: 5% 0%;
+}
+@media (max-width: 350px){
+    .btn{
+        margin:1%;
+    }
 }
