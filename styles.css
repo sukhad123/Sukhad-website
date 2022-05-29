@@ -5,8 +5,9 @@
 }
  
  .texth1{
-     font-family: 'Montserrat Alternates', sans-serif;;
-      
+    
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
      size:4rem;
      line-height: 1.5;
      color:white;
@@ -86,10 +87,32 @@ header{
      position:  relative;
      z-index:1;
      background-color: aliceblue;
-     bottom:100px;
+     bottom:150px;
+}
+@media (max-width:830px) and (min-width:745px){
+    .z-index{
+        position:static;
+    }
+    header{
+        position:static;
 
+    }
 }
 .spacing{
     position:relative;
-    bottom:100px;
+    bottom:150px;
+}
+.seventh{
+    padding:5% 15%;
+}
+.seventh_text{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    color:white;
+}
+.logo{
+    margin:1%;
+}
+.eight{
+    padding: 5% 0%;
 }
