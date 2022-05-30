@@ -17,10 +17,10 @@
 .left{
     margin-left:0px;
 } 
-.sukhad{
+#sukhad{
     position:relative;
     padding: 3% 15%;
-    background-color:#EB5353;
+    background-color: #ff4c68;
 }
  .second{
      position:relative;
@@ -42,7 +42,7 @@ img{
 .third{
     padding: 3% 15%;
     text-align: center;
-    background-color: #EB5353;
+    background-color:  #ff4c68;
     font-family: 'Montserrat Alternates', sans-serif;
     color: white;
     margin-bottom: 0px;
@@ -102,7 +102,7 @@ header{
     position:relative;
     bottom:150px;
 }
-.seventh{
+#seventh{
     padding:5% 15%;
 }
 .seventh_text{
@@ -113,11 +113,14 @@ header{
 .logo{
     margin:1%;
 }
-.{
+#eight{
     padding: 5% 0%;
 }
 @media (max-width: 350px){
     .btn{
         margin:1%;
     }
+}
+body{
+    
 }
