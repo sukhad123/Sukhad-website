@@ -116,7 +116,7 @@ header{
 #eight{
     padding: 5% 0%;
 }
-@media (max-width: 350px){
+@media (max-width: 505px){
         .z-index{
             position:static;
         }
