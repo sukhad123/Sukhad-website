@@ -124,6 +124,9 @@ header{
             position:static;
     
         }
+        .btn{
+            width:50%;
+        }
          
 }
  
