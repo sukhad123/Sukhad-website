@@ -117,10 +117,15 @@ header{
     padding: 5% 0%;
 }
 @media (max-width: 350px){
-    .btn{
-        margin:1%;
-    }
-}
-body{
+     {
+        .z-index{
+            position:static;
+        }
+        header{
+            position:static;
     
+        }
+         
+     }
 }
+ 
